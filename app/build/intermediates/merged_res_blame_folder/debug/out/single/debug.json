@@ -1,0 +1,1274 @@
+[
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_payment_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\payment_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_airline_seat_legroom_normal_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_airline_seat_legroom_normal_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_amount_menu_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\amount_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_info_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_payments_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_payments_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_restaurant_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_restaurant_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\welcome_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_displaycategory.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\custom_layout_displaycategory.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_payments_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_payments_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_extralight.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\muli_extralight.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_lock_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_fastfood_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_fastfood_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_lock_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaystaff_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\displaystaff_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_airline_seat_legroom_normal_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_airline_seat_legroom_normal_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_displaystaff.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\custom_layout_displaystaff.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_fastfood_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_fastfood_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_event_seat_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_event_seat_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_restaurant_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_restaurant_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_us.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\us.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_email_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_cog_solid.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\user_cog_solid.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_warning_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_backspace_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_backspace_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_info_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_info_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_border_black.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\corner_border_black.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_anim.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_insert_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_insert_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_create_pencil.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_create_pencil.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nextnext.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\nextnext.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_bar_chart_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_bar_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_bar_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_local_phone_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_payments_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_payments_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_addstaff_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\addstaff_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_backback.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\backback.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_airline_seat_legroom_normal_40.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_airline_seat_legroom_normal_40.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_account_circle_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_create_pencil.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_create_pencil.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_bar_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_bar_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nhan.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\nhan.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_wifi_protected_setup_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_wifi_protected_setup_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nextnext.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\nextnext.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaystatistic_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\displaystatistic_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_backspace_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_backspace_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tkk.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\tkk.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_wifi_protected_setup_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_wifi_protected_setup_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recoffeeshop.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\recoffeeshop.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_addtable_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\addtable_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_register_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person_pin_32.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person_pin_32.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\card.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_regular_italic.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_regular_italic.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_bar_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_bar_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_event_seat_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_event_seat_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_insert_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_insert_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_airline_seat_legroom_normal_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_airline_seat_legroom_normal_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_displaystatistic.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\custom_layout_displaystatistic.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_storage_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_storage_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_email_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_email_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_backspace_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_backspace_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_espresso.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\espresso.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_insert_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_insert_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_wifi_protected_setup_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_wifi_protected_setup_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person_pin_32.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person_pin_32.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_light.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_light.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backback.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\backback.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_calendar_today_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_displayhome_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\displayhome_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_airline_seat_legroom_normal_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_airline_seat_legroom_normal_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_backback.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\backback.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_wifi_protected_setup_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_wifi_protected_setup_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_medium_italic.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_medium_italic.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_payments_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_payments_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_lock_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_event_seat_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_event_seat_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_wifi_protected_setup_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_wifi_protected_setup_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_que.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\que.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_wifi_protected_setup_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_wifi_protected_setup_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_displaymenu.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\custom_layout_displaymenu.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaycategory_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\displaycategory_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_navigation_header.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\menu_navigation_header.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_storage_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_storage_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_email_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_email_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_static_thong_ke.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\activity_static_thong_ke.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_re.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\re.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thucdon.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\thucdon.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_info_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_info_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_textview.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\round_corner_textview.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_airline_seat_legroom_normal_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_airline_seat_legroom_normal_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_storage_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_storage_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nu.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\nu.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_orbitron_medium.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\orbitron_medium.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_solid.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\user_solid.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_fastfood_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_fastfood_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_restaurant_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_restaurant_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_airline_seat_legroom_normal_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_airline_seat_legroom_normal_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_attach_money_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person_pin_32.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person_pin_32.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person_pin_32.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person_pin_32.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_insert_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_insert_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person_pin_32.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person_pin_32.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_backspace_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_backspace_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_bar_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_bar_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_event_seat_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_event_seat_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_local_phone_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_lock_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_thin_italic.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_thin_italic.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_restaurant_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_restaurant_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_lock_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_displaytable.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\custom_layout_displaytable.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_email_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_insert_chart_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_insert_chart_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lo.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\lo.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_airline_seat_legroom_normal_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_airline_seat_legroom_normal_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_payments_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_payments_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\menu.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_create_pencil.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_create_pencil.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_layout_paymentmenu.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\custom_layout_paymentmenu.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\menu_item_menu.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\menu\\item_menu.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_airline_seat_legroom_normal_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_airline_seat_legroom_normal_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_create_pencil.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_create_pencil.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_airline_seat_legroom_normal_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_airline_seat_legroom_normal_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_bar_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_bar_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_bar_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_bar_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_storage_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_storage_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_airline_seat_legroom_normal_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_airline_seat_legroom_normal_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hi.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\hi.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_edittable_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\edittable_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_event_seat_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_event_seat_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thucdon1.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\thucdon1.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cafe_americano.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\cafe_americano.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nextnext.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\nextnext.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_restaurant_menu_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_restaurant_menu_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu_navigation.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\menu\\main_menu_navigation.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_payments_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_payments_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tea.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\tea.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_backback.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\backback.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_backspace_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_backspace_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_exit_to_app_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_exit_to_app_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_airline_seat_legroom_normal_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_airline_seat_legroom_normal_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backback.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\backback.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_restaurant_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_restaurant_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_categorytext.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\round_corner_categorytext.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_border_white.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\corner_border_white.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_insert_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_insert_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_info_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_info_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\menu_edit_context_menu.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\menu\\edit_context_menu.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_info_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_info_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_an.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\an.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_info_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_info_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_create_pencil.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_create_pencil.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_airline_seat_legroom_normal_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_airline_seat_legroom_normal_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coffee_icon.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\coffee_icon.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_calendar_today_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_calendar_today_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_fastfood_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_email_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_storage_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_storage_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_light_italic.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_light_italic.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaytable_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\displaytable_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_account_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_fastfood_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_fastfood_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_koko.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\koko.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_payments_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_payments_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nextnext.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\nextnext.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_airline_seat_legroom_normal_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_airline_seat_legroom_normal_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_insert_chart_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_insert_chart_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_register2nd_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\register2nd_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person_pin_32.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person_pin_32.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_drawable.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\circle_drawable.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_event_seat_40.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_event_seat_40.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_bold_italic.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_bold_italic.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person_pin_32.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person_pin_32.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_create_pencil.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_create_pencil.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_wifi_protected_setup_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_wifi_protected_setup_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ser.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\ser.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_addcategory_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\addcategory_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drinkfood.jpeg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\drinkfood.jpeg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_local_phone_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_local_phone_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_attach_money_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nextnext.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\nextnext.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_fastfood_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_fastfood_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backback.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\backback.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_black.ttf.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\brandon_grotesque_black.ttf"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\splash_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_account_circle_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_account_circle_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nutella_frappuccinos.jpg.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\nutella_frappuccinos.jpg"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_backspace_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_backspace_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_detailstatistic_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\detailstatistic_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_nextnext.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nextnext.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_attach_money_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_attach_money_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_fastfood_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_fastfood_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_restaurant_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_restaurant_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_displaymenu_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\displaymenu_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_menutext.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\round_corner_menutext.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nextnext.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\nextnext.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_circle_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_warning_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome_logo.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\welcome_logo.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ko.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\ko.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_muli.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\muli.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_menu_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_menu_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_event_seat_40.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_event_seat_40.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_backspace_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_backspace_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_addmenu_layout.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\addmenu_layout.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backback.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\backback.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_storage_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_storage_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner_border_primary.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\drawable\\corner_border_primary.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_black.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\font\\muli_black.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_storage_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_storage_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_info_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_info_24.png"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_create_pencil.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_create_pencil.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bill_view.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\layout\\activity_bill_view.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\anim_side_anim.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\src\\main\\res\\anim\\side_anim.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_menu_24.xml.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "E:\\DATN\\family_dining\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_warning_24.png.flat",
+        "source": "E:\\DATN\\family_dining\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_warning_24.png"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.family_dining.family_dining"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.OrderDrinkApp" >
+        <activity android:name="com.family_dining.family_dining.Activities.BillView" />
+        <activity android:name="com.family_dining.family_dining.Activities.StaticThongKe" />
+        <activity android:name="com.family_dining.family_dining.Activities.DetailStatisticActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.AddStaffActivity" />
+        <activity
+            android:name="com.family_dining.family_dining.Activities.EditTableActivity"
+            android:label="Sửa bàn ăn"
+            android:theme="@style/PopUpActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.PaymentActivity" />
+        <activity
+            android:name="com.family_dining.family_dining.Activities.AmountMenuActivity"
+            android:label="số lượng món"
+            android:theme="@style/PopUpActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.AddCategoryActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.AddMenuActivity" />
+        <activity
+            android:name="com.family_dining.family_dining.Activities.AddTableActivity"
+            android:label="@string/addTable"
+            android:theme="@style/PopUpActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.HomeActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.LoginActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.Register2ndActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.WelcomeActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.RegisterActivity" />
+        <activity android:name="com.family_dining.family_dining.Activities.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

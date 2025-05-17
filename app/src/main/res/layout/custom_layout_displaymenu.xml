@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="16dp"> <!-- Khoảng cách dưới giữa các item -->
+
+        <FrameLayout
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginBottom="12dp">
+
+            <ImageView
+                android:id="@+id/img_custommenu_HinhMon"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/cafe_americano"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/txt_custommenu_TenMon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:fontFamily="@font/muli_black"
+                android:background="@color/black50"
+                android:text="Caffè Americano Iced"
+                android:layout_gravity="bottom"
+                android:textSize="20sp"
+                android:padding="5dp" />
+
+            <TextView
+                android:id="@+id/txt_custommenu_TinhTrang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
+                android:text="Còn món"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:background="@drawable/round_corner_textview"
+                android:layout_gravity="top|end"
+                android:layout_margin="5dp" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp">
+
+            <TextView
+                android:id="@+id/txt_custommenu_GiaTien"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10000 VND"
+                android:fontFamily="@font/muli"
+                android:textStyle="bold"
+                android:layout_centerInParent="true"
+                android:textSize="16sp"
+                android:textColor="@color/black" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

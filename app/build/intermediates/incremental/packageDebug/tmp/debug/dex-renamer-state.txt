@@ -1,0 +1,4 @@
+#Sat May 17 09:05:56 ICT 2025
+base.0=E\:\\DATN\\family_dining\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
