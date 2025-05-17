@@ -55,7 +55,7 @@ public class AddCategoryActivity extends AppCompatActivity implements View.OnCli
                     }
                 }
             });
-
+// change
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
